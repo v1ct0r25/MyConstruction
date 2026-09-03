@@ -9,7 +9,7 @@
 
     <h1>My Construction</h1>
 
-    <h2>Iniciar sesión</h2>
+    <h2>Iniciar sesion</h2>
 	<%
 	    String error = (String) request.getAttribute("error");
 
@@ -30,7 +30,7 @@
 
         <br><br>
 
-        <label>Contraseña:</label>
+        <label>Clave:</label>
         <br>
         <input type="password" name="password" required>
 
