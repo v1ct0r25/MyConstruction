@@ -12,7 +12,7 @@
     <h2>Bienvenido al sistema</h2>
 
     <p>
-        Has iniciado sesión correctamente.
+        Has iniciado sesion correctamente.
     </p>
 
 </body>

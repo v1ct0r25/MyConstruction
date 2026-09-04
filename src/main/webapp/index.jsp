@@ -12,10 +12,10 @@
     <h2>Bienvenido</h2>
 
     <p>
-        Construimos tus proyectos desde la idea hasta la realidad.
+        Construimos todos tus proyectos
     </p>
 
-    <a href="login.jsp">Iniciar sesión</a>
+    <a href="login.jsp">Iniciar sesion</a>
 
 </body>
 </html>
